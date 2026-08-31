@@ -1,14 +1,13 @@
 import { useState } from 'react'
-import './App.css'
+import Body from './components/Body'
+
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-    <h1 class="text-3xl text-red-900 font-bold underline">
-    Hello world!
-  </h1>
+    <> 
+      <Body />
     </>
   )
 }
