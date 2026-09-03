@@ -1,6 +1,13 @@
 # netflix-gpt
 create react by vite
 Configured tailwind css
+header
+routing
+login form
+sign up form
+from validation 
+useRef hook
+Firebase installation Setup and deployment
 
 # Features
 - login/ signup page
